@@ -1,5 +1,4 @@
 const { MongoClient } = require('mongodb');
-
 const url = process.env.MONGO_URL || 'mongodb://localhost:27017';
 const dbName = 'giftdb';
 let dbInstance = null;

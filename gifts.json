@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "electronics",
+    "price": 99,
+    "description": "Noise-cancelling headphones"
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "category": "electronics",
+    "price": 120,
+    "description": "RGB mechanical gaming keyboard"
+  },
+  {
+    "id": 3,
+    "name": "Smart Fitness Watch",
+    "category": "electronics",
+    "price": 80,
+    "description": "Track steps, sleep, and heart rate"
+  },
+  {
+    "id": 4,
+    "name": "Portable Power Bank",
+    "category": "electronics",
+    "price": 35,
+    "description": "20000mAh fast-charging power bank"
+  },
+  {
+    "id": 5,
+    "name": "Cotton Hoodie",
+    "category": "apparel",
+    "price": 45,
+    "description": "Comfortable oversized fleece hoodie"
+  },
+  {
+    "id": 6,
+    "name": "Classic Sneakers",
+    "category": "apparel",
+    "price": 75,
+    "description": "Everyday stylish sneakers"
+  },
+  {
+    "id": 7,
+    "name": "Graphic T-Shirt",
+    "category": "apparel",
+    "price": 25,
+    "description": "100% premium cotton t-shirt"
+  },
+  {
+    "id": 8,
+    "name": "Travel Backpack",
+    "category": "apparel",
+    "price": 60,
+    "description": "Waterproof laptop travel bag"
+  },
+  {
+    "id": 9,
+    "name": "Strategy Board Game",
+    "category": "toys",
+    "price": 40,
+    "description": "Fun tabletop family board game"
+  },
+  {
+    "id": 10,
+    "name": "Building Blocks Set",
+    "category": "toys",
+    "price": 55,
+    "description": "Creative construction kit"
+  },
+  {
+    "id": 11,
+    "name": "Mini Camera Drone",
+    "category": "toys",
+    "price": 90,
+    "description": "HD camera foldable drone"
+  },
+  {
+    "id": 12,
+    "name": "Wooden 3D Puzzle",
+    "category": "toys",
+    "price": 30,
+    "description": "Brain-teaser mechanical puzzle"
+  },
+  {
+    "id": 13,
+    "name": "Full-Stack Handbook",
+    "category": "books",
+    "price": 30,
+    "description": "Complete guide to modern web development"
+  },
+  {
+    "id": 14,
+    "name": "Science Fiction Novel",
+    "category": "books",
+    "price": 18,
+    "description": "Bestselling space odyssey adventure"
+  },
+  {
+    "id": 15,
+    "name": "Modern Culinary Art",
+    "category": "books",
+    "price": 28,
+    "description": "Step-by-step gourmet recipes"
+  },
+  {
+    "id": 16,
+    "name": "Personal Growth Book",
+    "category": "books",
+    "price": 20,
+    "description": "Habits and productivity mindset"
+  }
+]
